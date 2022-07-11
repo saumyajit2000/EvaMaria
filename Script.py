@@ -1,17 +1,17 @@
 class script(object):
-    START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 OR SEARCH INLINE 😍"""
+    START_TXT = """Hi {},
+I am <a href=https://t.me/{}>{}</a>, I can provide movies, Just add me to your groups and See magic or Search Inline. 😍"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ MY 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/legend_pirated>彡么 Loading -로딩 중 ツ彡</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-✯ MY 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
+    ABOUT_TXT = """✯ MY NAME: {}
+✯ MY CREATOR: <a href=https://t.me/legend_pirated>彡么 Loading -로딩 중 ツ彡</a>
+✯ LIBRARY: PYROGRAM
+✯ LANGUAGE: PYTHON3
+✯ DATABASE: MONGODB
+✯ MY HEART: HEROKU
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Bae Suzy. 
+- Bae Suzy Owned by - @legend_pirated. 
 - Source - https://t.me/MoviesThunder_Chat_Group  
 
 <b>DEVS:</b>
