@@ -4,18 +4,18 @@ I am <a href=https://t.me/{}>{}</a>, I can provide movies, Just add me to your g
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ MY NAME: {}
-✯ MY CREATOR: <a href=https://t.me/legend_pirated>彡么 Loading -로딩 중 ツ彡</a>
+✯ MY CREATOR: <a href='tg://user?id=1163542794'>彡么 Loading -로딩 중 ツ彡</a>
 ✯ LIBRARY: PYROGRAM
 ✯ LANGUAGE: PYTHON3
 ✯ DATABASE: MONGODB
 ✯ MY HEART: HEROKU
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
+✯ BUILD STATUS: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Nancy Momoland Owned by - @legend_pirated. 
-- Source - https://t.me/MoviesThunder_Chat_Group  
+- SUPPORT - <a href=https://t.me/MoviesThunder_Chat_Group>CLICK HERE PLEASE</a> 
 
 <b>DEVS:</b>
-- <a href=https://t.me/legend_pirated>彡么 Loading -로딩 중 ツ彡</a>"""
+- <a href='tg://user?id=1163542794'>彡么 Loading -로딩 중 ツ彡</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
@@ -32,12 +32,11 @@ I am <a href=https://t.me/{}>{}</a>, I can provide movies, Just add me to your g
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- Bae suzy Supports both url and alert inline buttons.
+- Nancy Momoland Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. Eva Maria supports buttons with any telegram media type.
-3. Buttons should be properly parsed as markdown format
+2. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
 <code>[Button Text](buttonurl:https://t.me/EvaMariaBot)</code>
@@ -92,10 +91,10 @@ This module only works for my admins
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
     STATUS_TXT = """★ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
-★ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
-★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
-★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
-★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱"""
+★ TOTAL USERS: <code>{}</code>
+★ TOTAL CHATS: <code>{}</code>
+★ USED STORAGE: <code>{}</code> 𝙼𝚒𝙱
+★ FREE STORAGE: <code>{}</code> 𝙼𝚒𝙱"""
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
