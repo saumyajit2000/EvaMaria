@@ -11,7 +11,7 @@ I am <a href=https://t.me/{}>{}</a>, I can provide movies, Just add me to your g
 ✯ MY HEART: HEROKU
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Bae Suzy Owned by - @legend_pirated. 
+- Nancy Momoland Owned by - @legend_pirated. 
 - Source - https://t.me/MoviesThunder_Chat_Group  
 
 <b>DEVS:</b>
