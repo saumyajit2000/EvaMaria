@@ -44,8 +44,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🎬 Request Movie', url='https://t.me/MoviesThunder_Chat_Group')
+            InlineKeyboardButton('🔍 Search Movie', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('🎬 Request Movie', url='https://t.me/+5yZI8oDXqA0yZmQ1')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
@@ -90,8 +90,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🎬 Request Movie', url='https://t.me/MoviesThunder_Chat_Group')
+            InlineKeyboardButton('🔍 Search Movie', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('🎬 Request Movie', url='https://t.me/+5yZI8oDXqA0yZmQ1')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
