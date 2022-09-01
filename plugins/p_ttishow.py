@@ -38,7 +38,7 @@ async def save_group(bot, message):
             return
         buttons = [[
             InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/{temp.U_NAME}?start=help"),
-            InlineKeyboardButton('📢 Updates', url='https://t.me/MoviesThunder_Chat_Group')
+            InlineKeyboardButton('📢 Updates', url='https://t.me/+5yZI8oDXqA0yZmQ1')
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
@@ -67,7 +67,7 @@ async def leave_a_chat(bot, message):
         chat = chat
     try:
         buttons = [[
-            InlineKeyboardButton('Support', url=f'https://t.me/MoviesThunder_Chat_Group')
+            InlineKeyboardButton('Support', url=f'https://t.me/+5yZI8oDXqA0yZmQ1')
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await bot.send_message(
