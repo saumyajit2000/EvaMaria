@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """Hi {},
-I am <a href=https://t.me/{}>{}</a>, I can provide movies, Just add me to your groups and See magic or Search Inline. 😍"""
+I am <a href=https://t.me/{}>{}</a>, I can provide movies, Just add me to your groups and See magic or Use Search Movie Button. 😍"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ MY NAME: {}
@@ -12,7 +12,7 @@ I am <a href=https://t.me/{}>{}</a>, I can provide movies, Just add me to your g
 ✯ BUILD STATUS: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Nancy Momoland Owned by - @legend_pirated. 
-- SUPPORT - <a href=https://t.me/MoviesThunder_Chat_Group>CLICK HERE PLEASE</a> 
+- SUPPORT - <a href=https://t.me/+5yZI8oDXqA0yZmQ1>CLICK HERE PLEASE</a> 
 
 <b>DEVS:</b>
 - <a href='tg://user?id=1163542794'>彡么 Loading -로딩 중 ツ彡</a>"""
