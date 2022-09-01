@@ -8,7 +8,7 @@ from utils import get_size, temp, get_settings
 from Script import script
 from pyrogram.errors import ChatAdminRequired
 
-"""-----------------------------------------https://t.me/MoviesThunder_Chat_Group --------------------------------------"""
+"""-----------------------------------------https://t.me/+5yZI8oDXqA0yZmQ1 --------------------------------------"""
 
 @Client.on_message(filters.new_chat_members & filters.group)
 async def save_group(bot, message):
@@ -22,7 +22,7 @@ async def save_group(bot, message):
         if message.chat.id in temp.BANNED_CHATS:
             # Inspired from a boat of a banana tree
             buttons = [[
-                InlineKeyboardButton('Support', url=f'https://t.me/MoviesThunder_Chat_Group')
+                InlineKeyboardButton('Support', url=f'https://t.me/+5yZI8oDXqA0yZmQ1')
             ]]
             reply_markup=InlineKeyboardMarkup(buttons)
             k = await message.reply(
